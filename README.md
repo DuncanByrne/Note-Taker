@@ -11,6 +11,8 @@ heroku link: https://dashboard.heroku.com/apps/notetakerapphw/deploy/heroku-git
 github repo: https://github.com/DuncanByrne/Note-Taker
 
 
+working link: https://notetakerapphw.herokuapp.com/notes
+
 
 screenshots:
 
