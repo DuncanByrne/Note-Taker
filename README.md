@@ -6,7 +6,7 @@ what we learned in class about creating servers, including middleware, PORT, app
 
 video link: https://youtu.be/PBJXCt7dkmI
 
-heroku link: https://dashboard.heroku.com/apps/gentle-beyond-73304/access
+heroku link: https://dashboard.heroku.com/apps/notetakerapphw/deploy/heroku-git
 
 github repo: https://github.com/DuncanByrne/Note-Taker
 
